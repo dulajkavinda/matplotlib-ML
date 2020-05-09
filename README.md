@@ -4,7 +4,7 @@ Matplotlib is a plotting library for the Python programming language and its num
 
 ## Getting Started
 
-- [ ] Importing And Using Matplotlib
+- [x] Importing And Using Matplotlib
 - [ ] Anatomy Of A Matplotlib Figure
 - [ ] Scatter Plot And Bar Plot
 - [ ] Histograms And Subplots
