@@ -8,7 +8,7 @@ Matplotlib is a plotting library for the Python programming language and its num
 - [x] Anatomy Of A Matplotlib Figure
 - [x] Scatter Plot And Bar Plot
 - [x] Histograms And Subplots
-- [ ] Plotting From Pandas DataFrames
+- [x] Plotting From Pandas DataFrames
 - [ ] Customizing Your Plots
 - [ ] Saving And Sharing Your Plots
 - [ ] Assignment: Matplotlib Practice
